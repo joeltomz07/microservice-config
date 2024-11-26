@@ -1,6 +1,6 @@
-spring:
-  application:
-    name: ConfigProd
+#spring:
+#  application:
+#    name: ConfigProd
 
 eureka:
   instance:
